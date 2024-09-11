@@ -15,6 +15,10 @@ const App = () => {
         </div>
       </nav>
       <Hero />
+      <Hero />
+      <Hero />
+      <Hero />
+      <Hero />
     </>
   );
 };

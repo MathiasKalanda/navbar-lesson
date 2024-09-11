@@ -1,7 +1,7 @@
 const MenuBar = () => {
   return (
     <>
-      <div className="bg-black text-white mx-auto p-4 flex justify-between items-center fixed w-full top-0">
+      <div className="  bg-black text-white mx-auto p-4 flex justify-between items-center fixed w-full top-0">
         <h1 className="text-3xl font-medium">
           <a href="" id="hero">
             AOMM

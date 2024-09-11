@@ -7,7 +7,7 @@ const MobileMenu = () => {
     setOpen(!open);
   };
   return (
-    <div className="relative">
+    <div className="">
       <div className="bg-black text-white h-[10dvh] flex justify-between items-center px-4">
         <h1 className="text-3xl font-medium">
           <a href="" id="hero">
@@ -29,7 +29,7 @@ const MobileMenu = () => {
       {open && (
         <div>
           <nav
-            className="flex flex-col min-h-screen items-center py-8 bg-black text-white"
+            className="flex flex-col min-h-screen items-center py-8 bg-black text-white "
             aria-label="mobile"
           >
             <a href="" className="w-full text-center py-6 hover:opacity-90">
